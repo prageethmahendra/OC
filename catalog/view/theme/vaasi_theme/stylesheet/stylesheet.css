@@ -79,8 +79,8 @@ div.required .control-label:before {
 }
 /* top */
 #top {
-	background-color: #EEEEEE;
-	border-bottom: 1px solid #e2e2e2;
+	background-color: rgba(255, 129, 26, 0.3);
+	border-bottom: 1px solid #ff811a;
 	padding: 4px 0px 3px 0;
 	margin: 0 0 20px 0;
 	min-height: 40px;
@@ -102,7 +102,7 @@ div.required .control-label:before {
 }
 #top .btn-link, #top-links li, #top-links a {
 	color: #888;
-	text-shadow: 0 1px 0 #FFF;
+	/*text-shadow: 0 1px 0 #FFF;*/
 	text-decoration: none;
 }
 #top .btn-link:hover, #top-links a:hover {
@@ -500,27 +500,31 @@ footer h5 {
 }
 .btn-inverse {
 	color: #ffffff;
-	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-	background-color: #363636;
-	background-image: linear-gradient(to bottom, #444444, #222222);
+	/*text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);*/
+	background-color: #ff811a;
+	background-image: linear-gradient(to bottom, #f2a632, #f2a632);
 	background-repeat: repeat-x;
-	border-color: #222222 #222222 #000000;
+	border-color: #ff811a #ff811a #ff811a;
 }
 .btn-inverse:hover, .btn-inverse:active, .btn-inverse.active, .btn-inverse.disabled, .btn-inverse[disabled] {
-	background-color: #222222;
-	background-image: linear-gradient(to bottom, #333333, #111111);
+	background-color: rgba(242, 166, 50, 0.51);
+	background-image: linear-gradient(to bottom, rgba(242, 166, 50, 0.51), rgba(242, 166, 50, 0.51));
+	border-color: #ffffff;
 }
 /* list group */
 .list-group a {
-	border: 1px solid #DDDDDD;
-	color: #888888;
+	border: 2px solid #ffffff;
+	background: rgba(242, 166, 50, 0.26);
+	color: #000000;
 	padding: 8px 12px;
+	font-family: verdana, arial;
+	font-size: small;
 }
 .list-group a.active, .list-group a.active:hover, .list-group a:hover {
 	color: #444444;
-	background: #eeeeee;
-	border: 1px solid #DDDDDD;
-	text-shadow: 0 1px 0 #FFF;
+	background: rgb(255, 255, 255);
+	border: 1px solid #ffffff;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.16);
 }
 /* carousel */
 .carousel-caption {
@@ -537,8 +541,8 @@ footer h5 {
 }
 /* product list */
 .product-thumb {
-	border: 1px solid #ddd;
-	margin-bottom: 20px;
+	border: 1px solid #ffffff;
+	margin-bottom: 1px;
 	overflow: auto;
 }
 .product-thumb .image {
@@ -549,6 +553,7 @@ footer h5 {
 }
 .product-thumb .image a:hover {
 	opacity: 0.8;
+
 }
 .product-thumb .image img {
 	margin-left: auto;
@@ -568,7 +573,7 @@ footer h5 {
 }
 .product-thumb .caption {
 	padding: 0 20px;
-	min-height: 180px;
+	min-height: 100px;
 }
 .product-list .product-thumb .caption {
 	margin-left: 230px;
