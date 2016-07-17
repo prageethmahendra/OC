@@ -1,0 +1,26 @@
+2016-07-09 12:50:11 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavmegamenu.php on line 9
+2016-07-09 12:50:33 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/widgets_loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavhomebuilder.php on line 9
+2016-07-09 12:50:38 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/widgets_loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavhomebuilder.php on line 9
+2016-07-09 12:50:42 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavmegamenu.php on line 9
+2016-07-09 12:50:50 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/widgets_loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavhomebuilder.php on line 9
+2016-07-09 12:50:55 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/widgets_loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavhomebuilder.php on line 9
+2016-07-09 12:50:59 - PHP Warning:  require_once(C:/xampp/htdocs/vaasi/system/pavothemes/widgets_loader.php): failed to open stream: No such file or directory in C:\xampp\htdocs\vaasi\admin\controller\module\pavhomebuilder.php on line 9
+2016-07-09 12:59:55 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\vaasi\system\library\db\mysqli.php on line 45
+2016-07-09 12:59:55 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\vaasi\system\library\db\mysqli.php on line 45
+2016-07-09 13:53:45 - PHP Notice:  Undefined index: customize in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 669
+2016-07-09 13:53:45 - PHP Notice:  Undefined index: customize_match in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 670
+2016-07-09 13:53:45 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 675
+2016-07-09 13:53:46 - PHP Notice:  Undefined index: customize in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 669
+2016-07-09 13:53:46 - PHP Notice:  Undefined index: customize_match in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 670
+2016-07-09 13:53:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 675
+2016-07-09 13:53:47 - PHP Notice:  Undefined index: customize in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 669
+2016-07-09 13:53:47 - PHP Notice:  Undefined index: customize_match in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 670
+2016-07-09 13:53:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 675
+2016-07-09 13:53:52 - PHP Notice:  Undefined index: customize in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 669
+2016-07-09 13:53:52 - PHP Notice:  Undefined index: customize_match in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 670
+2016-07-09 13:53:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 675
+2016-07-09 13:53:57 - PHP Notice:  Undefined index: customize in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 669
+2016-07-09 13:53:57 - PHP Notice:  Undefined index: customize_match in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 670
+2016-07-09 13:53:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\vaasi\admin\controller\module\themecontrol.php on line 675
+2016-07-11 13:29:50 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\vaasi\system\library\db\mysqli.php on line 45
+2016-07-11 13:29:50 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\vaasi\system\library\db\mysqli.php on line 45
